@@ -11,7 +11,7 @@ EVM :
 ### 1. Clone Repository
 
 ```bash
-https://github.com/Mnuralim/bot-data-lake.git
+git clone https://github.com/Mnuralim/bot-data-lake.git
 ```
 
 ```
